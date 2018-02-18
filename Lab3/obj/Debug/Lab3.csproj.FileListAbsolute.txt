@@ -1,0 +1,16 @@
+E:\crypto2\lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+E:\crypto2\lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+E:\crypto2\lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.GenKey.resources
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.Cache
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+E:\crypto2\lab3\Lab3\Lab3\bin\Debug\myfunc.dll
+E:\crypto2\lab3\Lab3\Lab3\bin\Debug\myfunc.pdb
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.Encrypt.resources
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.Decrypt.resources
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.Sign.resources
+E:\crypto2\lab3\Lab3\Lab3\obj\Debug\Lab3.Protocol.resources
